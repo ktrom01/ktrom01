@@ -1,6 +1,9 @@
 👋 Hi I'm Kyle Trombley
+
 🌱 I'm currently learning web development
+
 👀 I interested in Software Development and Hardware Description Language projects
+
 <!--
 **ktrom01/ktrom01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
