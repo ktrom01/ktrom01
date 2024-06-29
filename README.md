@@ -1,6 +1,6 @@
 👋 Hi I'm Kyle Trombley
 
-🌱 I'm currently learning web development
+🌱 I'm an aspiring python progmrammer
 
 👀 I interested in Software Development and Hardware Description Language projects
 
